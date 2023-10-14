@@ -17,8 +17,4 @@ public class _6_RemoveDuplicatesFromSortedArray {
         }
         return j;
     }
-
-    public static int remove(String s){
-
-    }
 }
