@@ -1,6 +1,6 @@
 package TopInterviewQuestions;
 
-public class _2_RomanToInteger {
+public class _02_RomanToInteger {
     public static void main(String[] args) {
         String s = "IX";
         System.out.println(romanToInt(s));

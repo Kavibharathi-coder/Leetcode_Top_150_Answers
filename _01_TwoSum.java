@@ -2,7 +2,7 @@ package TopInterviewQuestions;
 
 import java.util.Arrays;
 
-public class _1_TwoSum {
+public class _01_TwoSum {
     public static void main(String[] args) {
         int[] arr = {2, 7, 1, 4};
         int target = 9;

@@ -1,7 +1,7 @@
 package TopInterviewQuestions;
 import java.util.Arrays;
 
-public class _8_PlusOne {
+public class _08_PlusOne {
     public static void main(String[] args) {
         int[] arr = {9, 9, 9};
         System.out.println(Arrays.toString(twoSum(arr)));

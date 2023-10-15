@@ -2,7 +2,7 @@ package TopInterviewQuestions;
 
 import java.util.Stack;
 
-public class _4_ValidParentheses {
+public class _04_ValidParentheses {
     public static void main(String[] args) {
         String s = "()[]{}[";
         System.out.println(validParanteses(s));

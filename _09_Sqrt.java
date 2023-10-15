@@ -1,6 +1,6 @@
 package TopInterviewQuestions;
 
-public class _9_Sqrt {
+public class _09_Sqrt {
     public static void main(String[] args) {
         int num = 8;
         System.out.println(squareRoot(num));

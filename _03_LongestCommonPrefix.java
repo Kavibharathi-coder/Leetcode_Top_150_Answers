@@ -2,7 +2,7 @@ package TopInterviewQuestions;
 
 import java.util.Arrays;
 
-public class _3_LongestCommonPrefix {
+public class _03_LongestCommonPrefix {
     public static void main(String[] args) {
         String[] arr = {"flower","flow","flight"};
         System.out.println(logestCommonPrefix(arr));

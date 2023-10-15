@@ -1,6 +1,6 @@
 package TopInterviewQuestions;
 
-public class _7_FindTheIndexOfTheFirstOccuranceInAString {
+public class _07_FindTheIndexOfTheFirstOccuranceInAString {
     public static void main(String[] args) {
         String haystack = "leetcode";
         String needle = "code";
