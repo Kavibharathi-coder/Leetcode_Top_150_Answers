@@ -12,7 +12,7 @@ package TopInterviewQuestions;
         this.next = nextP;
     }
 }
-public class _5_MergeTwoSortedList {
+public class _05_MergeTwoSortedList {
     public static void main(String[] args) {
 
     }
